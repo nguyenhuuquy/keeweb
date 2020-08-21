@@ -1,0 +1,13 @@
+{
+    "settings": {
+  
+      "dropbox": true,
+      "dropboxFolder": null,
+      "dropboxAppKey": "lupxxy23gkl6xu4",
+      "dropboxSecret": "hax3knejhm3d431"
+      
+    },
+    "files": [],
+    "showOnlyFilesFromConfig": false,
+    "plugins": []
+  }
